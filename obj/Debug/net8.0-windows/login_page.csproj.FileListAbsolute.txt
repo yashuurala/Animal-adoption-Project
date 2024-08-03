@@ -1,0 +1,17 @@
+C:\Users\kshra\source\repos\login_page\login_page\bin\Debug\net8.0-windows\login_page.exe
+C:\Users\kshra\source\repos\login_page\login_page\bin\Debug\net8.0-windows\login_page.deps.json
+C:\Users\kshra\source\repos\login_page\login_page\bin\Debug\net8.0-windows\login_page.runtimeconfig.json
+C:\Users\kshra\source\repos\login_page\login_page\bin\Debug\net8.0-windows\login_page.dll
+C:\Users\kshra\source\repos\login_page\login_page\bin\Debug\net8.0-windows\login_page.pdb
+C:\Users\kshra\source\repos\login_page\login_page\obj\Debug\net8.0-windows\login_page.Form1.resources
+C:\Users\kshra\source\repos\login_page\login_page\obj\Debug\net8.0-windows\login_page.Properties.Resources.resources
+C:\Users\kshra\source\repos\login_page\login_page\obj\Debug\net8.0-windows\login_page.csproj.GenerateResource.cache
+C:\Users\kshra\source\repos\login_page\login_page\obj\Debug\net8.0-windows\login_page.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\kshra\source\repos\login_page\login_page\obj\Debug\net8.0-windows\login_page.AssemblyInfoInputs.cache
+C:\Users\kshra\source\repos\login_page\login_page\obj\Debug\net8.0-windows\login_page.AssemblyInfo.cs
+C:\Users\kshra\source\repos\login_page\login_page\obj\Debug\net8.0-windows\login_page.csproj.CoreCompileInputs.cache
+C:\Users\kshra\source\repos\login_page\login_page\obj\Debug\net8.0-windows\login_page.dll
+C:\Users\kshra\source\repos\login_page\login_page\obj\Debug\net8.0-windows\refint\login_page.dll
+C:\Users\kshra\source\repos\login_page\login_page\obj\Debug\net8.0-windows\login_page.pdb
+C:\Users\kshra\source\repos\login_page\login_page\obj\Debug\net8.0-windows\login_page.genruntimeconfig.cache
+C:\Users\kshra\source\repos\login_page\login_page\obj\Debug\net8.0-windows\ref\login_page.dll

@@ -1,0 +1,53 @@
+C:\Users\kshra\source\repos\animal_adoption\login_page\bin\Debug\net8.0-windows\animal adoption.exe
+C:\Users\kshra\source\repos\animal_adoption\login_page\bin\Debug\net8.0-windows\animal adoption.deps.json
+C:\Users\kshra\source\repos\animal_adoption\login_page\bin\Debug\net8.0-windows\animal adoption.runtimeconfig.json
+C:\Users\kshra\source\repos\animal_adoption\login_page\bin\Debug\net8.0-windows\animal adoption.dll
+C:\Users\kshra\source\repos\animal_adoption\login_page\bin\Debug\net8.0-windows\animal adoption.pdb
+C:\Users\kshra\source\repos\animal_adoption\login_page\obj\Debug\net8.0-windows\login_page.load.resources
+C:\Users\kshra\source\repos\animal_adoption\login_page\obj\Debug\net8.0-windows\animal_adoption.login.resources
+C:\Users\kshra\source\repos\animal_adoption\login_page\obj\Debug\net8.0-windows\animal_adoption.Properties.Resources.resources
+C:\Users\kshra\source\repos\animal_adoption\login_page\obj\Debug\net8.0-windows\animal adoption.csproj.GenerateResource.cache
+C:\Users\kshra\source\repos\animal_adoption\login_page\obj\Debug\net8.0-windows\animal adoption.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\kshra\source\repos\animal_adoption\login_page\obj\Debug\net8.0-windows\animal adoption.AssemblyInfoInputs.cache
+C:\Users\kshra\source\repos\animal_adoption\login_page\obj\Debug\net8.0-windows\animal adoption.AssemblyInfo.cs
+C:\Users\kshra\source\repos\animal_adoption\login_page\obj\Debug\net8.0-windows\animal adoption.csproj.CoreCompileInputs.cache
+C:\Users\kshra\source\repos\animal_adoption\login_page\obj\Debug\net8.0-windows\animal adoption.dll
+C:\Users\kshra\source\repos\animal_adoption\login_page\obj\Debug\net8.0-windows\refint\animal adoption.dll
+C:\Users\kshra\source\repos\animal_adoption\login_page\obj\Debug\net8.0-windows\animal adoption.pdb
+C:\Users\kshra\source\repos\animal_adoption\login_page\obj\Debug\net8.0-windows\animal adoption.genruntimeconfig.cache
+C:\Users\kshra\source\repos\animal_adoption\login_page\obj\Debug\net8.0-windows\ref\animal adoption.dll
+C:\Users\kshra\source\repos\animal_adoption\login_page\obj\Debug\net8.0-windows\animal_adoption.home.resources
+C:\Users\USER\Desktop\source\repos\animal_adoption\login_page\bin\Debug\net8.0-windows\animal adoption.exe
+C:\Users\USER\Desktop\source\repos\animal_adoption\login_page\bin\Debug\net8.0-windows\animal adoption.deps.json
+C:\Users\USER\Desktop\source\repos\animal_adoption\login_page\bin\Debug\net8.0-windows\animal adoption.runtimeconfig.json
+C:\Users\USER\Desktop\source\repos\animal_adoption\login_page\bin\Debug\net8.0-windows\animal adoption.dll
+C:\Users\USER\Desktop\source\repos\animal_adoption\login_page\bin\Debug\net8.0-windows\animal adoption.pdb
+C:\Users\USER\Desktop\source\repos\animal_adoption\login_page\bin\Debug\net8.0-windows\System.Data.SqlClient.dll
+C:\Users\USER\Desktop\source\repos\animal_adoption\login_page\bin\Debug\net8.0-windows\runtimes\win-arm64\native\sni.dll
+C:\Users\USER\Desktop\source\repos\animal_adoption\login_page\bin\Debug\net8.0-windows\runtimes\win-x64\native\sni.dll
+C:\Users\USER\Desktop\source\repos\animal_adoption\login_page\bin\Debug\net8.0-windows\runtimes\win-x86\native\sni.dll
+C:\Users\USER\Desktop\source\repos\animal_adoption\login_page\bin\Debug\net8.0-windows\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\USER\Desktop\source\repos\animal_adoption\login_page\bin\Debug\net8.0-windows\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\USER\Desktop\source\repos\animal_adoption\login_page\obj\Debug\net8.0-windows\animal adoption.csproj.AssemblyReference.cache
+C:\Users\USER\Desktop\source\repos\animal_adoption\login_page\obj\Debug\net8.0-windows\animal_adoption.Customer.resources
+C:\Users\USER\Desktop\source\repos\animal_adoption\login_page\obj\Debug\net8.0-windows\animal_adoption.employee.resources
+C:\Users\USER\Desktop\source\repos\animal_adoption\login_page\obj\Debug\net8.0-windows\animal_adoption.home.resources
+C:\Users\USER\Desktop\source\repos\animal_adoption\login_page\obj\Debug\net8.0-windows\login_page.load.resources
+C:\Users\USER\Desktop\source\repos\animal_adoption\login_page\obj\Debug\net8.0-windows\animal_adoption.login.resources
+C:\Users\USER\Desktop\source\repos\animal_adoption\login_page\obj\Debug\net8.0-windows\animal_adoption.Products.resources
+C:\Users\USER\Desktop\source\repos\animal_adoption\login_page\obj\Debug\net8.0-windows\animal_adoption.Properties.Resources.resources
+C:\Users\USER\Desktop\source\repos\animal_adoption\login_page\obj\Debug\net8.0-windows\animal adoption.csproj.GenerateResource.cache
+C:\Users\USER\Desktop\source\repos\animal_adoption\login_page\obj\Debug\net8.0-windows\animal adoption.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\USER\Desktop\source\repos\animal_adoption\login_page\obj\Debug\net8.0-windows\animal adoption.AssemblyInfoInputs.cache
+C:\Users\USER\Desktop\source\repos\animal_adoption\login_page\obj\Debug\net8.0-windows\animal adoption.AssemblyInfo.cs
+C:\Users\USER\Desktop\source\repos\animal_adoption\login_page\obj\Debug\net8.0-windows\animal adoption.csproj.CoreCompileInputs.cache
+C:\Users\USER\Desktop\source\repos\animal_adoption\login_page\obj\Debug\net8.0-windows\animal a.209BDE12.Up2Date
+C:\Users\USER\Desktop\source\repos\animal_adoption\login_page\obj\Debug\net8.0-windows\animal adoption.dll
+C:\Users\USER\Desktop\source\repos\animal_adoption\login_page\obj\Debug\net8.0-windows\refint\animal adoption.dll
+C:\Users\USER\Desktop\source\repos\animal_adoption\login_page\obj\Debug\net8.0-windows\animal adoption.pdb
+C:\Users\USER\Desktop\source\repos\animal_adoption\login_page\obj\Debug\net8.0-windows\animal adoption.genruntimeconfig.cache
+C:\Users\USER\Desktop\source\repos\animal_adoption\login_page\obj\Debug\net8.0-windows\ref\animal adoption.dll
+C:\Users\USER\Desktop\source\repos\animal_adoption\login_page\obj\Debug\net8.0-windows\animal_adoption.Billing.resources
+C:\Users\USER\Desktop\source\repos\animal_adoption\login_page\obj\Debug\net8.0-windows\animal_adoption.Form1.resources
+C:\Users\USER\Desktop\source\repos\animal_adoption\login_page\obj\Debug\net8.0-windows\animal_adoption.Form2.resources
+C:\Users\USER\Desktop\source\repos\animal_adoption\login_page\obj\Debug\net8.0-windows\animal_adoption.Form3.resources
