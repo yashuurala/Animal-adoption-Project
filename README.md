@@ -18,3 +18,6 @@ The **Animal Adoption Center** is a user-friendly web application designed to st
 
 ![Image](https://github.com/user-attachments/assets/043233fc-2d14-4039-8a8a-33579127ce0b)
 ![Image](https://github.com/user-attachments/assets/f7df39e0-7c4c-41a8-b2ab-773fe81e82c0)
+![Image](https://github.com/user-attachments/assets/03e23528-a3b7-4892-adf8-7b34917cf4b4)
+![Image](https://github.com/user-attachments/assets/320835af-1a3c-426f-88b2-33df41c4e9eb)
+![Image](https://github.com/user-attachments/assets/6dfd607e-2aa9-42e2-86fc-4dd01b4e02bb)
