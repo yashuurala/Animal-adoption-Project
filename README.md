@@ -17,3 +17,4 @@ The **Animal Adoption Center** is a user-friendly web application designed to st
 - 🗄️ **Database**: MySQL
 
 ![Image](https://github.com/user-attachments/assets/043233fc-2d14-4039-8a8a-33579127ce0b)
+![Image](https://github.com/user-attachments/assets/f7df39e0-7c4c-41a8-b2ab-773fe81e82c0)
